@@ -10,4 +10,7 @@
 ### 创业
 + [我的失败与伟大 —— 纪念历时18个月的初次创业](http://iosre.com/t/topic/4152)
 
+### 单板滑雪
++ [单板滑雪初阶技巧](https://www.bilibili.com/read/cv75859?from=articleDetail)
+
 
