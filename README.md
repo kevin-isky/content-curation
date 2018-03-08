@@ -13,4 +13,9 @@
 ### 单板滑雪
 + [单板滑雪初阶技巧](https://www.bilibili.com/read/cv75859?from=articleDetail)
 
+### Medium
++ [Just a web page?](https://medium.com/@dpup/just-a-web-page-194f7a3d260a)
++ [The Optimal Post is 7 Minutes](https://medium.com/data-lab/the-optimal-post-is-7-minutes-74b9f41509b)
++ [Medium’s metric that matters: Total Time Reading](https://medium.com/data-lab/mediums-metric-that-matters-total-time-reading-86c4970837d5)
+
 
