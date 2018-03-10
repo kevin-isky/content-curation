@@ -10,6 +10,7 @@
 
 ### 单板滑雪
 + [单板滑雪初阶技巧](https://www.bilibili.com/read/cv75859?from=articleDetail)
+> 关于单板滑雪的入门准备和进阶的一站式教程。
 
 ### Medium技术架构
 + [Medium网站前端架构](https://gist.github.com/longmao/c56d46d28d033f356b6f)
@@ -20,10 +21,12 @@
 
 ### 区块链(Blockchain)
 + [What is Blockchain?](https://www.cigionline.org/multimedia/what-blockchain)
+> 这是一个视频，有英文字幕，对于区块链的技术原理解释的非常简单和清晰。
 
 ### 博客
 + [sunyongjian的博客](https://github.com/sunyongjian/blog)
 + [蚂蚁数据体验技术团队博客](https://github.com/ProtoTeam/blog)
+> 发现Github上有越来越多的优质博客了，必须马。。。另外，也许可以考虑做个Github所有优质博客的入口了，方便随时浏览好内容。
 
 ### 书单
 + [思考，快与慢](https://book.douban.com/subject/10785583/)
