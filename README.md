@@ -1,5 +1,5 @@
 
-平时看到的觉得不错的好内容都记录在这里，不定期持续更新。
+杂七杂八的各种内容，整体来说是我觉得值得看和准备要看的东西。
 
 ### 产品冷启动
 + [如何冷启动一个新产品](https://www.zhihu.com/question/23281795) <br>
@@ -22,5 +22,7 @@
 ### blog
 + [sunyongjian的博客](https://github.com/sunyongjian/blog)
 + [蚂蚁数据体验技术团队博客](https://github.com/ProtoTeam/blog)
+
+### 书单
 
 
