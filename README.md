@@ -24,5 +24,7 @@
 + [蚂蚁数据体验技术团队博客](https://github.com/ProtoTeam/blog)
 
 ### 书单
-
++ [思考，快与慢](https://book.douban.com/subject/10785583/)
++ [失控](https://book.douban.com/subject/5375620/)
++ [查理·芒格的智慧](https://book.douban.com/subject/26374572/)
 
