@@ -31,13 +31,15 @@
 > 发现Github上有越来越多的优质博客了，必须马。。。另外，也许可以考虑做个Github所有优质博客的入口了，方便随时浏览好内容。
 
 ### 书单
-+ [思考，快与慢](https://book.douban.com/subject/10785583/)
 + [失控](https://book.douban.com/subject/5375620/)
-+ [查理·芒格的智慧](https://book.douban.com/subject/26374572/)
 + [黑客与画家](https://book.douban.com/subject/6021440/)
 + [创业维艰](https://book.douban.com/subject/26306686/)
 + [从0到1](https://book.douban.com/subject/26297606/)
+> 创业
 + [暗时间](https://book.douban.com/subject/6709809/)
++ [思考，快与慢](https://book.douban.com/subject/10785583/)
++ [查理·芒格的智慧](https://book.douban.com/subject/26374572/)
+> 思维
 
 ### 直觉
 + [直觉与模式](http://mindlee.com/2012/12/02/intuition-and-pattern/)
