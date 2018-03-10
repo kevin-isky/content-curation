@@ -19,7 +19,7 @@
 ### 区块链(Blockchain)
 + [What is Blockchain?](https://www.cigionline.org/multimedia/what-blockchain)
 
-### blog
+### 博客
 + [sunyongjian的博客](https://github.com/sunyongjian/blog)
 + [蚂蚁数据体验技术团队博客](https://github.com/ProtoTeam/blog)
 
