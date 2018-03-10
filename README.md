@@ -4,9 +4,11 @@
 ### 产品冷启动
 + [如何冷启动一个新产品](https://www.zhihu.com/question/23281795) <br>
 + [获取种子用户](http://iamsujie.com/tag/%E5%86%B7%E5%90%AF%E5%8A%A8/)
+> 生孩子难，养孩子更难。
 
 ### 创业
 + [我的失败与伟大 —— 纪念历时18个月的初次创业](http://iosre.com/t/topic/4152)
+> 更多时候，创业的真实经历往往会来带来更多关于创业的真实感受和启发。
 
 ### 单板滑雪
 + [单板滑雪初阶技巧](https://www.bilibili.com/read/cv75859?from=articleDetail)
