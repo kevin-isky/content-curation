@@ -30,6 +30,7 @@
 + [黑客与画家](https://book.douban.com/subject/6021440/)
 + [创业维艰](https://book.douban.com/subject/26306686/)
 + [从0到1](https://book.douban.com/subject/26297606/)
++ [暗时间](https://book.douban.com/subject/6709809/)
 
 ### 直觉
 + [直觉与模式](http://mindlee.com/2012/12/02/intuition-and-pattern/)
