@@ -11,10 +11,12 @@
 ### 单板滑雪
 + [单板滑雪初阶技巧](https://www.bilibili.com/read/cv75859?from=articleDetail)
 
-### Medium
+### Medium技术架构
++ [Medium网站前端架构](https://gist.github.com/longmao/c56d46d28d033f356b6f)
 + [Just a web page?](https://medium.com/@dpup/just-a-web-page-194f7a3d260a)
 + [The Optimal Post is 7 Minutes](https://medium.com/data-lab/the-optimal-post-is-7-minutes-74b9f41509b)
 + [Medium’s metric that matters: Total Time Reading](https://medium.com/data-lab/mediums-metric-that-matters-total-time-reading-86c4970837d5)
+> 通过Medium网站的技术架构，可以了解到，架构的前提是产品定位和业务需求，然后确定架构目标再做架构方案。
 
 ### 区块链(Blockchain)
 + [What is Blockchain?](https://www.cigionline.org/multimedia/what-blockchain)
