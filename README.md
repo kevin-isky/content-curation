@@ -1,7 +1,5 @@
-# Content Curation
-这里用来记录我感兴趣的topic和相关内容列表，会不定期的持续更新。
 
-## topic list for content curation
+平时看到的觉得不错的好内容都记录在这里，不定期持续更新。
 
 ### 产品冷启动
 + [如何冷启动一个新产品](https://www.zhihu.com/question/23281795) <br>
