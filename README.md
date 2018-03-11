@@ -48,6 +48,5 @@
 ### 技术进阶
 + [Learning at work](https://jvns.ca/blog/2017/08/06/learning-at-work/?utm_campaign=CodeTengu&utm_medium=web&utm_source=CodeTengu_115)
 + [多些时间能少写些代码](https://coolshell.cn/articles/5686.html?utm_campaign=CodeTengu&utm_medium=web&utm_source=CodeTengu_115)
-
-
+> 为了快速完成工作而减少思考和必要的学习，事后看来都是得不偿失的。
 
