@@ -50,3 +50,7 @@
 + [多些时间能少写些代码](https://coolshell.cn/articles/5686.html?utm_campaign=CodeTengu&utm_medium=web&utm_source=CodeTengu_115)
 > 为了快速完成工作而减少思考和必要的学习，事后看来都是得不偿失的。
 
+### 技术面试
++ [技术面试需要掌握的基础知识整理](https://github.com/CyC2018/Interview-Notebook)
+
+
