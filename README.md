@@ -53,4 +53,11 @@
 ### 技术面试
 + [技术面试需要掌握的基础知识整理](https://github.com/CyC2018/Interview-Notebook)
 
+### 编码实践
++ [优雅的提交你的 Git Commit Message](https://zhuanlan.zhihu.com/p/34223150)
++ [如何写好 Git commit log](https://www.zhihu.com/question/21209619/answer/257574960)
++ [5 Useful Tips For A Better Commit Message](https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
++ [Git 写出好的 commit message](https://ruby-china.org/topics/15737)
+
+
 
