@@ -68,3 +68,6 @@
 + [关于。lepture](https://lepture.com/about)
 > 看到感觉不错的个人博客时，都会看看About页面，久而久就养成了收藏About页面的习惯。
 
+### 计算机网络
++ [计算机是如何聊天的？](https://www.zhihu.com/pub/book/119554662)
+
