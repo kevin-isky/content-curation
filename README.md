@@ -63,5 +63,7 @@
 + [ETHEREUM PET SHOP](http://truffleframework.com/tutorials/pet-shop)
 > This tutorial will take you through the process of building your first dapp—an adoption tracking system for a pet shop!
 
-
+### Abouts
++ [关于。小胡子哥](https://www.barretlee.com/about/)
+> 看到感觉不错的个人博客时，都会看看About页面，久而久就养成了收藏About页面的习惯。
 
