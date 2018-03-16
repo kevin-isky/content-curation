@@ -66,6 +66,7 @@
 ### Abouts
 + [关于。小胡子哥](https://www.barretlee.com/about/)
 + [关于。lepture](https://lepture.com/about)
++ [关于。木遥](http://blog.farmostwood.net/about)
 > 看到感觉不错的个人博客时，都会看看About页面，久而久就养成了收藏About页面的习惯。
 
 ### 计算机网络
