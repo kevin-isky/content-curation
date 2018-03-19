@@ -8,8 +8,9 @@
 
 ### 创业
 + [我的失败与伟大 —— 纪念历时18个月的初次创业](http://iosre.com/t/topic/4152)
-+ [BOOTSTRAPPING YOUR STARTUP IDEA](http://yedingding.com/2014/03/12/bootstrapping-your-startup-idea.html)
 > 更多时候，创业的真实经历往往会来带来更多关于创业的真实感受和启发。
++ [BOOTSTRAPPING YOUR STARTUP IDEA](http://yedingding.com/2014/03/12/bootstrapping-your-startup-idea.html)
+> 技术创业的优势就是早期能够专注于产品和用户，不需要花费精力和时间去需找资本。
 
 ### 单板滑雪
 + [单板滑雪初阶技巧](https://www.bilibili.com/read/cv75859?from=articleDetail)
