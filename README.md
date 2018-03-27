@@ -79,7 +79,7 @@
 > npm的工作的方式看完这篇就基本上弄的比较清楚了，同时也了解到了npm对js的影响到底有多大，毫不夸张的说就是”change the way we write the javascript”，npm基于SemVer让”many small modules”变得可能。后续由于webpack这类工具的出现，让前端工程也能够享用到npm的nb之处，大大解放了生产力。
 
 + [Everything You Wanted To Know About package-lock.json But Were Too Afraid To Ask](https://medium.com/@Quigley_Ja/everything-you-wanted-to-know-about-package-lock-json-b81911aa8ab8)
-> 讲清楚了npm的工作机制，并且解锁了package-loc.json的正确用法。
+> 讲清楚了npm的工作机制，并且解锁了package-lock.json的正确用法。
 
 + [Requiring modules in Node.js: Everything you need to know](https://medium.freecodecamp.org/requiring-modules-in-node-js-everything-you-need-to-know-e7fbd119be8 )
 > 如果你會寫 Node.js 程式，但還是不太了解 modules 是什麼，為何要用 module.exports，以及 require 到底是怎麼運作的，你可以先看這篇文章。
