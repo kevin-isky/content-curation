@@ -83,3 +83,6 @@
 
 + [Requiring modules in Node.js: Everything you need to know](https://medium.freecodecamp.org/requiring-modules-in-node-js-everything-you-need-to-know-e7fbd119be8 )
 > 如果你會寫 Node.js 程式，但還是不太了解 modules 是什麼，為何要用 module.exports，以及 require 到底是怎麼運作的，你可以先看這篇文章。
+
+### 前端
++ [shim和polyfill之间的区别是什么](https://github.com/chenxiaochun/blog/issues/37)
