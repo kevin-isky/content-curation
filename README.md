@@ -17,7 +17,10 @@
 > 关于单板滑雪的入门准备和进阶的一站式教程。
 
 ### 自由泳
++ [游泳入门－给新手的一点建议](https://morongs.github.io/2016/07/09/youyongrumen/)
++ [从零开始学蛙泳](https://morongs.github.io/2016/07/31/wayonglianxi/)
 + [如何正确有效地学习自由泳](https://morongs.github.io/2016/09/15/xuexiziyouyong/)
+> 适合游泳初学和进阶，入门蛙泳和自由泳。
 
 ### Medium技术架构
 + [Medium网站前端架构](https://gist.github.com/longmao/c56d46d28d033f356b6f)
