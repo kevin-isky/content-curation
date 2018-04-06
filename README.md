@@ -12,16 +12,6 @@
 + [Bootstrapping Your Startup Idea](http://yedingding.com/2014/03/12/bootstrapping-your-startup-idea.html)
 > 技术创业的优势就是早期能够专注于产品和用户，不需要花费精力和时间去需找资本。
 
-### 单板滑雪
-+ [单板滑雪初阶技巧](https://www.bilibili.com/read/cv75859?from=articleDetail)
-> 关于单板滑雪的入门准备和进阶的一站式教程。
-
-### 自由泳
-+ [游泳入门－给新手的一点建议](https://morongs.github.io/2016/07/09/youyongrumen/)
-+ [从零开始学蛙泳](https://morongs.github.io/2016/07/31/wayonglianxi/)
-+ [如何正确有效地学习自由泳](https://morongs.github.io/2016/09/15/xuexiziyouyong/)
-> 适合游泳初学和进阶，入门蛙泳和自由泳。
-
 ### Medium技术架构
 + [Medium网站前端架构](https://gist.github.com/longmao/c56d46d28d033f356b6f)
 + [Just a web page?](https://medium.com/@dpup/just-a-web-page-194f7a3d260a)
