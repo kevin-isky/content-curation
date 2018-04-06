@@ -16,6 +16,9 @@
 + [单板滑雪初阶技巧](https://www.bilibili.com/read/cv75859?from=articleDetail)
 > 关于单板滑雪的入门准备和进阶的一站式教程。
 
+### 自由泳
++ [如何正确有效地学习自由泳](https://morongs.github.io/2016/09/15/xuexiziyouyong/)
+
 ### Medium技术架构
 + [Medium网站前端架构](https://gist.github.com/longmao/c56d46d28d033f356b6f)
 + [Just a web page?](https://medium.com/@dpup/just-a-web-page-194f7a3d260a)
