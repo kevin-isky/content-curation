@@ -22,6 +22,12 @@
 ### 区块链(Blockchain)
 + [What is Blockchain?](https://www.cigionline.org/multimedia/what-blockchain)
 > 这是一个视频，有英文字幕，对于区块链的技术原理解释的非常简单和清晰。
++ [How does blockchain really work? I built an app to show you.](https://medium.freecodecamp.org/how-does-blockchain-really-work-i-built-an-app-to-show-you-6b70cd4caf7d)
+### 区块链应用
++ [ETHEREUM PET SHOP](http://truffleframework.com/tutorials/pet-shop)
+> This tutorial will take you through the process of building your first dapp—an adoption tracking system for a pet shop!
++ [IPFS 教學和筆記](https://github.com/miaoski/ipfs-tutorial)
+> IPFS (星際檔案系統) 是用來取代已經太過集中化的 HTTP 的一種方案，去中心化，才能有民主、自由的網路。
 
 ### 博客
 + [sunyongjian的博客](https://github.com/sunyongjian/blog)
@@ -56,10 +62,6 @@
 + [如何写好 Git commit log](https://www.zhihu.com/question/21209619/answer/257574960)
 + [5 Useful Tips For A Better Commit Message](https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
 + [Git 写出好的 commit message](https://ruby-china.org/topics/15737)
-
-### DAPP
-+ [ETHEREUM PET SHOP](http://truffleframework.com/tutorials/pet-shop)
-> This tutorial will take you through the process of building your first dapp—an adoption tracking system for a pet shop!
 
 ### Abouts
 + [关于。小胡子哥](https://www.barretlee.com/about/)
