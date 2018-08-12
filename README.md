@@ -1,4 +1,10 @@
 
+2018年8月更新
+
+尝试用Issue来记录阅读过的好内容和自己的思考，请移步：https://github.com/kevin-isky/content-curation/issues
+
+----------------------
+
 希望收藏在这里的内容其他人看了也会觉得有用。
 
 ### 产品冷启动
