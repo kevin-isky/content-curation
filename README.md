@@ -27,6 +27,8 @@
 + [Git 写出好的 commit message](https://ruby-china.org/topics/15737)
 
 # 技术架构和系统设计
+[日志：每个软件工程师都应该知道的有关实时数据的统一抽象](https://github.com/oldratlee/translations/tree/master/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+
 ### Medium技术架构
 + [Medium网站前端架构](https://gist.github.com/longmao/c56d46d28d033f356b6f)
 + [Just a web page?](https://medium.com/@dpup/just-a-web-page-194f7a3d260a)
